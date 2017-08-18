@@ -1,0 +1,16 @@
+.list{
+	display: block;
+	float: left;
+	width:300px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+button{
+	margin-left: 15px;
+	position: relative;
+	float: right;
+	height: 20px;
+}
+ul{
+	list-style: none;
+}
